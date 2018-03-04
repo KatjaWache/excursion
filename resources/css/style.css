@@ -21,11 +21,14 @@ a {
 
 p {
   text-align: center;
+  font-size: 21px
+  color: gray;
+
 }
 video {
   text-align: center;
 }
-footer {
-  color: grey;
+.footer {
+  color: gray;
   text-align: right;
 }
